@@ -1,0 +1,2 @@
+--use this to get coords of ur editor 
+loadstring(game:HttpGet("https://github.com/exxtremestuffs/SimpleSpySource/raw/master/SimpleSpy.lua"))()
